@@ -10,5 +10,5 @@ game work on:
 * [GameName]TranslationUtility &ndash; Contains the utility that we use to edit the game; always public and free to use!
 * [GameName]TranslationRelease &ndash; The repository where we host the game's released patches.
 
-For more information on what we're doing, checkout [our website](https://haroohie.club/). If you have
+For more information on what we're doing, check out [our website](https://haroohie.club/). If you have
 questions, suggestions, or bug reports, feel free to swing by [our Discord](https://discord.gg/nesRSbpeFM).
